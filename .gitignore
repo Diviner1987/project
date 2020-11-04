@@ -1,0 +1,3 @@
+node_modules/
+dist/
+# 写在这里的就是被忽略的
